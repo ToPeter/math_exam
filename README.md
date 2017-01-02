@@ -2,7 +2,23 @@
 
 # Math Exam 
 
-## Set Theory (Math – theory)
+## 3. Sequences, Induction and Recursion (Math – theory)
+
+- Define a sequence
+ - [Sequence](http://www.mathsisfun.com/algebra/sequences-series.html)
+- Explain summations and telescopic sums
+ - [Telescopic](https://www.youtube.com/watch?v=oSgTjkr8o8A)
+ - [Short but smart](http://mathworld.wolfram.com/TelescopingSum.html)
+- Explain products and theorems for working with sums and products
+ - []()
+- Explain factorials and combinations
+ - []()
+- Describe the induction principles
+ - []()
+- Explain recursion
+ - []()
+
+## 4. Set Theory (Math – theory)
 
 - Define a set
  - [Set](https://www.youtube.com/watch?v=GYlhVuGBl5E)
