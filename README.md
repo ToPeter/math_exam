@@ -30,7 +30,7 @@
  - [Cartesian Products](https://www.youtube.com/watch?v=reAkZ74DGt0)
 
 - Define a relation and a function, what is the empty set and a powerset
- - []()
+ - [good](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_relations.htm)
  - []()
  - [Empty set](https://www.youtube.com/watch?v=5qfv5iY05tc)
  - [Powerset](https://www.youtube.com/watch?v=1obxIn-WD3A)
