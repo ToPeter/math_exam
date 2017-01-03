@@ -38,3 +38,9 @@
 - Define subsets and set equality
 
 - Present some laws on sets
+
+
+
+
+NOTE
+[github pages](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
